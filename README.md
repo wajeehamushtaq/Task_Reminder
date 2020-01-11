@@ -38,7 +38,7 @@ In this menu user will be asked to set reminder so that this task reminder will 
 if user set reminder for 5 minutes then it will output after 5 minutes 
 Complete the following task : PPSD,CAL,PF
 ```
-## Exit programme 
+## Exit program
 if use want to exit then by pressing this option the programme will exit 
 
 
