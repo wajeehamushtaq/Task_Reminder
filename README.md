@@ -35,7 +35,7 @@ PPSD,CAL,PF
 In this menu user will be asked to set reminder so that this task reminder will output tasks at specific time which is to be completed. 
 ## Limitation of this funcion is that it take time for seconds.
 ```
-if user set reminder for 5 minutes then it will output after 5 minutes 
+if user set reminder for 5 seconds then it will output after 5 seconds
 Complete the following task : PPSD,CAL,PF
 ```
 ## Exit program
